@@ -1,0 +1,2 @@
+D:\Users\maciej.mleczko\Desktop\Algotihms and Data Structtures\STPAR\obj\Debug\STPAR.csprojAssemblyReference.cache
+D:\Users\maciej.mleczko\Desktop\Algotihms and Data Structtures\STPAR\obj\Debug\STPAR.csproj.CoreCompileInputs.cache
